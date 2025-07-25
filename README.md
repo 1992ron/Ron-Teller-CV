@@ -10,4 +10,5 @@ I'm a QA Engineer with 4 years of hands-on experience in manual and automation t
 
 ## 📄 CV File
 
-- Ron-Teller-CV
+- [Ron-Teller-CV.pdf](Ron-Teller-CV.pdf)
+
